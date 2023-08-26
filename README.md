@@ -1,2 +1,13 @@
-# BSE_Learning
-Learning the knowledge of Basis Software Engineer, including Kernel, Compiler, Network and Architecture.
+# 计算机相关知识补全计划
+
+> 鉴于本人并没在学校学习过某些计算机基本课程，因此计划补全相关知识。计划更新至毕业找到工作。
+
+看看能坚持多久吧！
+
+## 目前计划
+
+1. C++基本语法
+2. 手写简单的STL
+
+
+# Week1 (2023.8.28 ~ )
